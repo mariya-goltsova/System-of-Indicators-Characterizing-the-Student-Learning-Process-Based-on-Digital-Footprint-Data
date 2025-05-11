@@ -1,0 +1,10 @@
+- analysis_final.ipynb - ноутбук с EDA
+
+# Бинарная классификация
+ - binary_classification_svm.ipynb - ноутбук с экспериментами по обучению SVM для задачи бинарной классификации
+
+
+# Многоклассовая классификация
+- multiclass_classification_catboost_svm.ipynb - ноутбук с экспериментами по обучению CatBoost и SVM для задачи многоклассовой классификации
+- 
+- AutoML.ipynb - ноутбук с запуском LightAutoML для задачи многоклассовой классификации
