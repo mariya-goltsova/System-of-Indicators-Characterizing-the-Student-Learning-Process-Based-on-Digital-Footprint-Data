@@ -1,4 +1,5 @@
 - analysis_final.ipynb - ноутбук с EDA
+- multi-agent-system.ipynb - ноутбук с созданием мультиагентной системы
 
 # Бинарная классификация
 - binary_classification
